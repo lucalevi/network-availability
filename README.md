@@ -1,18 +1,25 @@
-# Network-availability
-Script for calculating the yearly and monthly availability of a given network, with output tables and charts. 
+# Network
+# Availability
+This program calculates yearly and monthly availability of a certain network, with output tables and charts. 
 
-"Availability" is how much a network (roads, trains, trams...) is negatively affected by segments with low speed or total blocks (e.g. due to construction sites.)
+Availability is how a network (roads, trains, trams...) is negatively influenced with segments having a low speed and/or total blocks (e.g. due to construction sites; these impede the regualar effort of the network.)
 
-## Purpose of the whole thing
-Imagine you are a big national provider of public transport services. Or a large municipality. Or something else who has to do with networks like roads or railroads.
+## Purpose of the project
+If your network never works at maximum efficiency all the time;
+If you are a construction service industrial company;
+If your clients want to know when you are going with the new innovations;
 
-Most likelely, not all of your network will work at maximum speed and efficiency all the time: You might have construction sites that limit the speed at which to travel - or that block certain segments of the network overall!
+This is a project you might be curious with;
+Total or partial blocks having negative influence the efficiency of the network will underperform your network's availability; 
+you will hear users complaining as well!
 
-All these total or partial blocks lower the efficiency of the network. If you have an underperforming network you will hear users complaining as well!
+If thy goal is maximising the efficiency of the network;
+If thou want to know: "is my network available?"
+"Are there seasonality patterns that emerge? Do certain months perform better than others?"
+"How much will our construction works with next year's planning impact the network efficiency (and customer satisfaction)? "
 
-Your goal is to maximise the efficiency - or "availability" - of the network. But how much is your network available? How did it perform in the last years? Are there seasonality patterns that emerge? Do certain months perform better than others? How much will those works you have to do next year will impact the avaiablity (and therefore customer satisfaction)? 
 
-Here is where this program comes into play...
+Your boss will be curious of having a read of this program comes into play...
 
 ### A simple solution to calculate the network availabiltiy
 Wether you are the Swiss [SBB CFF FFS](https://company.sbb.ch/en/home.html), the French [SNCF](https://www.sncf.com/en) or the Italian [Trenitalia](https://www.trenitalia.com/en.html), you are interested in knowing how your network is performing.
