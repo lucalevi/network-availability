@@ -12,7 +12,6 @@ To use the script, install the required Python libraries (pandas, openpyxl, ua_p
 We hope that this script can help companies and organizations improve the availability of their networks and contribute to the well-being of their users.
 
 ### Source
-[^1]:
-Well-Known text (wkt): [(Wiki)](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry) 
+[^1]: Well-Known text (wkt): [Wikipedia](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry) 
 [^2]: abb
-[^3]: Well-Known text (wkt): [(Docs)](https://git.osgeo.org/gitea/postgis/postgis/src/branch/master/doc/bnf-wkt.txt)
+[^3]: Well-Known text (wkt): [Osgeo Git document](https://git.osgeo.org/gitea/postgis/postgis/src/branch/master/doc/bnf-wkt.txt)
