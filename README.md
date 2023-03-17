@@ -1,5 +1,5 @@
 # Network Availability script
-Program to calculate yearly and seasonal "availability" (amount of available, uncompromised railroads) on a rail network. Output are statistics (graphs) of data on railroads of municipal domain.
+Program to calculate yearly and seasonal "availability" (amount of available, uncompromised railroads) on a rail network. Output are statistics (graphs) and inference (AI-based model: OpenAI GPT 4) of data on railroads of municipal domain.
 
 ## How the program born
 While interning at the [Basler Verkehrs-Betriebe](https://www.bvb.ch/de/unternehmen/Kontakt/), municipality of [Basel-City](https://www.bs.ch/Portrait/leben-in-basel.html), together with Fabian Escribano, a script was developed. The original script calculates the availability of a certain network on a monthly and yearly basis. The new script presented in this page takes shapefiles of the network and tracks together with WKT[^1]  [^3] Postgres geoinformation ([here a method](https://postgis.net/docs/ST_AsText.html) for exporting geo binary information.) 
