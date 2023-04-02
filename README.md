@@ -1,5 +1,5 @@
 # Network Availability script
-Program to calculate yearly and seasonal "availability" (amount of available, uncompromised railroads) on a rail network. Output are statistics (graphs) <!-- and inference (AI-based model: OpenAI GPT 4) -->
+You are able to download the program to calculate yearly and seasonal "availability" (amount of available, uncompromised railroads) on a rail network. Output are statistics (graphs) <!-- and inference (AI-based model: OpenAI GPT 4) -->
 of the data on railroads of municipality domain.
 
 ## How the program born
@@ -16,3 +16,7 @@ We hope that this script can help companies and organizations improve the availa
 [^1]: Well-Known text (wkt): [Wikipedia](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry) 
 [^2]: abb
 [^3]: Well-Known text (wkt): [Osgeo Git document](https://git.osgeo.org/gitea/postgis/postgis/src/branch/master/doc/bnf-wkt.txt)
+
+### Links
+[Wann install git! Download, here the link:](https://github.com/git-guides/install-git)
+
