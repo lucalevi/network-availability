@@ -17,6 +17,3 @@ We hope that this script can help companies and organizations improve the availa
 [^2]: abb
 [^3]: Well-Known text (wkt): [Osgeo Git document](https://git.osgeo.org/gitea/postgis/postgis/src/branch/master/doc/bnf-wkt.txt)
 
-### Links
-[Wann install git! Download, here the link:](https://github.com/git-guides/install-git)
-
