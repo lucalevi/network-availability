@@ -35,3 +35,24 @@ You can install these libraries using pip:
 
 ```bash
 pip install pandas openpyxl ua_parser matplotlib
+```
+
+## Usage
+Clone the repository:
+```
+git clone https://github.com/lucalevi/network-availability.git
+```
+Navigate to the repository directory:
+```
+cd network-availability
+```
+Run the script in a Jupyter Notebook or Google Colab.
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request if you have any suggestions or improvements.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+You can customize this template further based on any additional details or specific requireme
