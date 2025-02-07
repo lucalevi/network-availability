@@ -35,3 +35,4 @@ You can install these libraries using pip:
 
 ```bash
 pip install pandas openpyxl ua_parser matplotlib
+```
