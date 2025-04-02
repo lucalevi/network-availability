@@ -54,7 +54,3 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 ## License
 This project is licensed under the GPL-3 License. See the [LICENSE](https://github.com/lucalevi/network-availability?tab=GPL-3.0-1-ov-file#readme) file for details.
-
-
-
-You can customize this template further based on any additional details or specific requirements you might have.
